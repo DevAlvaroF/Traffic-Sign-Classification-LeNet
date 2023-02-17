@@ -1,4 +1,4 @@
-# Traffic-Sign-Classification-LeNet
+# Traffic Sign Classification LeNet
 Traffic sign image Classification using LeNet architecture. 
 
 Classes are defined like:
